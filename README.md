@@ -1,0 +1,1 @@
+Student Grade Prediction is a project which helps a school or instituion to predict students final grade based on his/her demographics, parental education, previous grades and other features. It helps school in providing learning resources to needful students before its too late.
