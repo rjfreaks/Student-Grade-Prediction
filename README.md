@@ -28,13 +28,6 @@ Key Features:
 * CSV Dataset
 * PDF for stakeholder presentation
 
-
-📁 Student_Grade_Prediction/
-* ├── Student_Grade_Prediction-Rajat_Tiwari.pdf   # Visual presentation for business stakeholders
-* ├── student.csv                                 # Dataset containing student data
-* ├── Student_Grade_Prediction.ipynb              # Jupyter Notebook with code, analysis, and prediction models
-* └── README.md                                    # Project documentation (this file)
-
 📈 Results & Insights
 
 The model successfully identifies students at risk of underperforming based on:
