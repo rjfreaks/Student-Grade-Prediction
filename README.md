@@ -48,8 +48,10 @@ Project by Rajat Tiwari
 Guidance by Prof. Stephanie Langeland
 
 
-Related project materials:
-* Links to decks:
-    * YYYYMMDD: Project pitch deck (link)
-* Links to papers:
-    * Presented TITLE at XYZ on DATE
+# Related project materials:
+* Dataset Used:
+    Student Grade Prediction
+  https://www.kaggle.com/datasets/dipam7/student-grade-prediction/data
+  
+
+  
