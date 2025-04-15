@@ -50,8 +50,8 @@ Guidance by Prof. Stephanie Langeland
 
 # Related project materials:
 * Dataset Used:
-    Student Grade Prediction
-  https://www.kaggle.com/datasets/dipam7/student-grade-prediction/data
+    * Student Grade Prediction
+  * https://www.kaggle.com/datasets/dipam7/student-grade-prediction/data
   
 
   
