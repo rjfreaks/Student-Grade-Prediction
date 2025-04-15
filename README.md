@@ -15,11 +15,11 @@ Project desciption:
 
 Key Features:
 
-📌 * Exploratory Data Analysis (EDA) on student performance and demographic factors.
-📌 * Feature Engineering to select the most impactful predictors.
-📌 * Machine Learning Models applied to predict final grades.
-📌 * Model Evaluation using appropriate accuracy metrics.
-📌 * Business-friendly Presentation explaining results, value, and insights.
+* Exploratory Data Analysis (EDA) on student performance and demographic factors.
+* Feature Engineering to select the most impactful predictors.
+* Machine Learning Models applied to predict final grades.
+* Model Evaluation using appropriate accuracy metrics.
+* Business-friendly Presentation explaining results, value, and insights.
 
 🛠️ Technologies Used:
 
