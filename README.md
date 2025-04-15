@@ -13,22 +13,46 @@ The primary objective is to help institutions identify students at risk of under
 
 This project not only demonstrates the practical application of machine learning in the education sector but also highlights how data-driven decision-making can improve student outcomes and overall institutional performance.
 
-Navigating this repo:
-* `config` folder : Contains the any compute configuration files, e.g., JSON files with cluster configurations.
-* `utilities` folder : Contains modules that will be used in supporting code in the `dev` and `prod` folders.  E.g., `helper_functions.py`, `file_paths.py`, etc.
-* `dev` folder : Contains all code related to the development phase of this project.
-    * `eda` subfolder : Contains all code related to exploratory data analysis.
-* `prod` folder : Contains all code that will be used in production.
-* NOTES:
-    * At the top of each file, there should be a purpose that states why that file exists / what it does.  For details on what each file does, please open each file and refer to the purpose at the top.
-    * In each folder, start by reviewing its README file to understand the purpose and additional details related to the files in that folder.
- 
+Key Features:
+
+📌 Exploratory Data Analysis (EDA) on student performance and demographic factors.
+📌 Feature Engineering to select the most impactful predictors.
+📌 Machine Learning Models applied to predict final grades.
+📌 Model Evaluation using appropriate accuracy metrics.
+📌 Business-friendly Presentation explaining results, value, and insights.
+
+🛠️ Technologies Used:
+
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+Jupyter Notebook
+CSV Dataset
+PDF for stakeholder presentation
+
 
 📁 Student_Grade_Prediction/
  ├── Student_Grade_Prediction-Rajat_Tiwari.pdf   # Visual presentation for business stakeholders
  ├── student.csv                                 # Dataset containing student data
  ├── Student_Grade_Prediction.ipynb              # Jupyter Notebook with code, analysis, and prediction models
  └── README.md                                    # Project documentation (this file)
+
+📈 Results & Insights
+
+The model successfully identifies students at risk of underperforming based on:
+
+Prior academic performance
+Parental education level
+Demographics
+Other contextual factors
+By using this model, schools can intervene early and provide necessary support before it’s too late.
+
+🎨 Presentation for Stakeholders
+
+For a non-technical, visual explanation of the project’s approach and benefits, check the Student_Grade_Prediction-Rajat_Tiwari.pdf included in this repository.
+
+🤝 Acknowledgements
+
+Project by Rajat Tiwari
+Guidance by Prof. Stephanie Langeland
 
 
 Related project materials:
